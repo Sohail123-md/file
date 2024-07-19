@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>EXTERNAL CSS EXAMPLE</title>
+<LINK REL="STYLE SHEETS" href="externalcss.css">
+</head>
+<body>
+
+<h1>HELLO SOHAIL</h1>
+<p>THIS IS MRCET</p>
+<p>THIS IS cse department</p>
+</body>
+</html>
